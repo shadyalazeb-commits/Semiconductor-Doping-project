@@ -28,4 +28,7 @@ Notes
 • Python must be installed on the device.
 
 screenshot: 
-[]
+[<img width="646" height="611" alt="Screenshot 2026-05-22 190313" src="https://github.com/user-attachments/assets/b7fe92f8-d0b1-4d81-b7e5-168df68d9e7c" />
+<img width="1919" height="979" alt="Screenshot 2026-05-22 190557" src="https://github.com/user-attachments/assets/d394fdf9-6c41-4f82-93d2-163bb5259f3d" />
+<img width="790" height="686" alt="Screenshot 2026-05-22 190324" src="https://github.com/user-attachments/assets/b2899b7b-2d73-4c8d-9cb3-c5a3893fbb97" />
+]
